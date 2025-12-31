@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    [cite_start]"question": "Consider the following logical inferences. C1: If it rains then the cricket match will not be played. The cricket match was played. Inference: There was no rain. C2: If it rains then the cricket match will not be played. It did not rain. Inference: The cricket match was played. Which of the following is true? [cite: 61-66]",
+    "options": {
+      [cite_start]"A": "Both C1 and C2 are correct inferences [cite: 67]",
+      [cite_start]"B": "C1 is correct and C2 is not a correct inference [cite: 68]",
+      [cite_start]"C": "C1 is not correct and C2 is a correct inference [cite: 69]",
+      [cite_start]"D": "Both C1 and C2 are not correct inferences [cite: 70]"
+    }
+  },
+  {
+    "id": 2,
+    "question": "Let A be a finite set of size n. How many numbers of elements are in the power set of $A\\times A$? [cite_start]Assume that $X\\wedge Y$ means X to the power Y. [cite: 71-72]",
+    "options": {
+      [cite_start]"A": "$2^{\\wedge}(2^{\\wedge}n)$ [cite: 73]",
+      [cite_start]"B": "$2^{\\wedge}(n^{\\wedge}2)$ [cite: 75]",
+      [cite_start]"C": "$2^{\\wedge}n$ [cite: 74]",
+      [cite_start]"D": "$n^{\\wedge}2$ [cite: 76]"
+    }
+  },
+  {
+    "id": 3,
+    [cite_start]"question": "Let A, B and C be non-empty sets, overlapped with one another, and let $X=(A-B)-C$ and $Y=(A-C)-(B-C)$ Which one of the following is true? [cite: 77-78]",
+    "options": {
+      [cite_start]"A": "$X=Y$ [cite: 79-80]",
+      [cite_start]"B": "$X\\subset Y$ [cite: 83-84]",
+      [cite_start]"C": "$Y\\subset X$ [cite: 81-82]",
+      [cite_start]"D": "$X\\subseteq Y$ [cite: 85]"
+    }
+  },
+  {
+    "id": 4,
+    [cite_start]"question": "The number of integers between 1 and 500 (both inclusive) that are divisible by 3 or 5 or 7 is [cite: 86-87]",
+    "options": {
+      [cite_start]"A": "135 [cite: 88]",
+      [cite_start]"B": "271 [cite: 90]",
+      [cite_start]"C": "335 [cite: 89]",
+      [cite_start]"D": "350 [cite: 91]"
+    }
+  },
+  {
+    "id": 5,
+    "question": "Let $(A,\\otimes)=\\{\\{1,2,3,4,5,6\\}, )$ is a group. It has two subgroups X and Y, where $X=\\{1,3,6\\}$ and $Y=\\{2,3,5\\}$. [cite_start]What is the order of union of subgroups? [cite: 92-93]",
+    "options": {
+      [cite_start]"A": "4 [cite: 94]",
+      [cite_start]"B": "5 [cite: 96]",
+      [cite_start]"C": "6 [cite: 95]",
+      [cite_start]"D": "7 [cite: 96]"
+    }
+  },
+  {
+    "id": 6,
+    "question": "Consider a simple undirected graph of 10 vertices. [cite_start]If the graph is disconnected, then the maximum number of edges it can have is [cite: 97-98]",
+    "options": {
+      [cite_start]"A": "16 [cite: 99]",
+      [cite_start]"B": "36 [cite: 101]",
+      [cite_start]"C": "48 [cite: 100]",
+      [cite_start]"D": "72 [cite: 102]"
+    }
+  },
+  {
+    "id": 7,
+    "question": "A class of 30 students occupy a classroom containing 5 rows of seats, with 8 seats in each row. [cite_start]If the students seat themselves at random, then how much is the probability that sixth seat in the fifth row will be empty? [cite: 103-105]",
+    "options": {
+      [cite_start]"A": "$1/3$ [cite: 106-107]",
+      [cite_start]"B": "$1/4$ [cite: 110-111]",
+      [cite_start]"C": "$1/5$ [cite: 108-109]",
+      [cite_start]"D": "$2/5$ [cite: 112-113]"
+    }
+  },
+  {
+    "id": 8,
+    [cite_start]"question": "Which is the result of simplifying the expression $A.(A+B)$? [cite: 114]",
+    "options": {
+      [cite_start]"A": "$A+B$ [cite: 115]",
+      [cite_start]"B": "A [cite: 117]",
+      [cite_start]"C": "$A+B+AB$ [cite: 116]",
+      [cite_start]"D": "1 [cite: 118]"
+    }
+  },
+  {
+    "id": 9,
+    [cite_start]"question": "Which of the following methods is NOT commonly used to find an initial basic feasible solution for the transportation problem? [cite: 119-120]",
+    "options": {
+      [cite_start]"A": "Northwest Corner Method [cite: 121]",
+      [cite_start]"B": "Vogel's Approximation Method [cite: 122]",
+      [cite_start]"C": "Least Cost Method [cite: 123]",
+      [cite_start]"D": "Simplex Method [cite: 124]"
+    }
+  },
+  {
+    "id": 10,
+    "question": "What is critical path for the following PERT/CPM diagram? (Refer to diagram in document) [cite_start][cite: 126]",
+    "options": {
+      [cite_start]"A": "1-2-4-6-7 [cite: 139]",
+      [cite_start]"B": "1-2-3-6-7 [cite: 144]",
+      [cite_start]"C": "1-2-5-6-7 [cite: 140]",
+      [cite_start]"D": "1-2-6-7 [cite: 145]"
+    }
+  },
+  {
+    "id": 11,
+    [cite_start]"question": "Which of the following gates are known as Universal Gates? [cite: 146]",
+    "options": {
+      [cite_start]"A": "AND, OR, NOT [cite: 147]",
+      [cite_start]"B": "NAND, NOR [cite: 149]",
+      [cite_start]"C": "XOR, XNOR [cite: 148]",
+      [cite_start]"D": "All of these [cite: 150]"
+    }
+  },
+  {
+    "id": 12,
+    [cite_start]"question": "What is the equivalent hexadecimal value for the octal number $(75.55)_{8}$? [cite: 151]",
+    "options": {
+      [cite_start]"A": "3D.B4 [cite: 152]",
+      [cite_start]"B": "3D.B1 [cite: 154]",
+      [cite_start]"C": "F1.2D [cite: 153]",
+      [cite_start]"D": "F1.B4 [cite: 155]"
+    }
+  },
+  {
+    "id": 13,
+    [cite_start]"question": "What is the maximum number of directly addressable locations in the memory of a processor having 10-bits wide control bus, 20-bits address bus, and 8-bits data bus? [cite: 156-157]",
+    "options": {
+      [cite_start]"A": "512 [cite: 158]",
+      [cite_start]"B": "1024 [cite: 160]",
+      [cite_start]"C": "1600 [cite: 159]",
+      [cite_start]"D": "1048576 [cite: 160]"
+    }
+  },
+  {
+    "id": 14,
+    [cite_start]"question": "Which of the following factors can affect the overall time taken for the instruction cycle? [cite: 161-162]",
+    "options": {
+      [cite_start]"A": "Cache memory efficiency [cite: 163]",
+      [cite_start]"B": "Clock speed [cite: 165]",
+      [cite_start]"C": "Instruction complexity [cite: 164]",
+      [cite_start]"D": "All of these [cite: 166]"
+    }
+  },
+  {
+    "id": 15,
+    [cite_start]"question": "Which type of addressing mode allows for dynamic address calculation at run time? [cite: 167-168]",
+    "options": {
+      [cite_start]"A": "Static Addressing [cite: 169]",
+      [cite_start]"B": "Relative Addressing [cite: 171]",
+      [cite_start]"C": "Indexed Addressing [cite: 170]",
+      [cite_start]"D": "Register Indirect Addressing [cite: 172]"
+    }
+  },
+  {
+    "id": 16,
+    [cite_start]"question": "What is the primary function of control memory in a control unit? [cite: 173]",
+    "options": {
+      [cite_start]"A": "To store data for processing [cite: 174]",
+      [cite_start]"B": "To store microinstructions and control signals [cite: 175]",
+      [cite_start]"C": "To hold the results of computations [cite: 176]",
+      [cite_start]"D": "To manage input and output operations [cite: 177]"
+    }
+  },
+  {
+    "id": 17,
+    [cite_start]"question": "Which of the following statement is false for pipelining? [cite: 178]",
+    "options": {
+      [cite_start]"A": "Increases the overall throughput [cite: 178]",
+      [cite_start]"B": "Reduces the execution time of an individual instruction [cite: 179]",
+      [cite_start]"C": "Increases the program speed [cite: 180]",
+      [cite_start]"D": "Multiple instructions are executed simultaneously [cite: 181]"
+    }
+  },
+  {
+    "id": 18,
+    [cite_start]"question": "Which type of input/output $(I/O)$ interface is best suited for high-speed data transfer? [cite: 182]",
+    "options": {
+      [cite_start]"A": "Parallel $I/O$ [cite: 183]",
+      [cite_start]"B": "Serial $I/O$ [cite: 185]",
+      [cite_start]"C": "Interrupt-driven $I/O$ [cite: 184]",
+      [cite_start]"D": "DMA [cite: 185]"
+    }
+  },
+  {
+    "id": 19,
+    [cite_start]"question": "What is the primary difference between a write-through cache and a write-back cache? [cite: 186-187]",
+    "options": {
+      [cite_start]"A": "Cache size [cite: 188]",
+      [cite_start]"B": "Cache access time [cite: 189]",
+      [cite_start]"C": "Cache replacement policy [cite: 190]",
+      [cite_start]"D": "Cache update strategy [cite: 191]"
+    }
+  },
+  {
+    "id": 20,
+    [cite_start]"question": "In which type of multiprocessor system, all processors have identical, and have equal access to shared memory and $I/O$ devices? [cite: 192-193]",
+    "options": {
+      [cite_start]"A": "Asymmetric multiprocessor [cite: 194]",
+      [cite_start]"B": "Symmetric multiprocessor [cite: 195]",
+      [cite_start]"C": "Distributed shared memory multiprocessor [cite: 196]",
+      [cite_start]"D": "Asymmetric shared disk multiprocessor [cite: 197]"
+    }
+  },
+  {
+    "id": 21,
+    [cite_start]"question": "Consider the following C code segment: \n#include <stdio.h>\nint main()\n{\nint $x=5$;\nint $y=5$\nint *xptr = &x, *yptr = &y;\nprintf(\"%d\\n\", *xptr != yptr);\nreturn 0;\n}\nWhich one of the following statements is true for the above C code? [cite: 199-209]",
+    "options": {
+      [cite_start]"A": "Compiler will generate syntax error [cite: 210]",
+      [cite_start]"B": "Compiler will generate warning message and when ignore it, output will be 1 [cite: 211]",
+      [cite_start]"C": "Compiler will generate warning message and when ignore it, output will be 0 [cite: 211]",
+      [cite_start]"D": "Unexpected output [cite: 211]"
+    }
+  },
+  {
+    "id": 22,
+    [cite_start]"question": "Consider the following C code segment: \n#include <stdio.h>\nint main()\n{\nint $x=5$;\nint *xptr = &x;\nprintf(\"%d\\n\", (void *) &x == (void *) xptr);\nreturn 0;\n}\nWhat will be the output of the above C code? [cite: 212-220]",
+    "options": {
+      [cite_start]"A": "0 [cite: 221]",
+      [cite_start]"B": "1 [cite: 223]",
+      [cite_start]"C": "Unexpected [cite: 222]",
+      [cite_start]"D": "-1 [cite: 224]"
+    }
+  },
+  {
+    "id": 23,
+    [cite_start]"question": "Which of the following statements is false for the object-oriented programming? [cite: 225]",
+    "options": {
+      [cite_start]"A": "The purpose of an Abstract class is to provide an incomplete class definition that must be extended by other classes. [cite: 226]",
+      [cite_start]"B": "A class has public data members directly accessible by other classes is an example of poor encapsulation. [cite: 227]",
+      [cite_start]"C": "Virtual functions in C++ must always be redefined in derived classes. [cite: 228]",
+      [cite_start]"D": "It is possible to resolve the diamond problem in C++ using multiple virtual base classes to ensure only one instance of the base class exists. [cite: 229]"
+    }
+  },
+  {
+    "id": 24,
+    [cite_start]"question": "If a base class constructor is not called in a derived class constructor, then [cite: 230]",
+    "options": {
+      [cite_start]"A": "The base class constructor will be called automatically [cite: 230]",
+      [cite_start]"B": "The derived class constructor will not compile and there will not be a syntax error [cite: 231]",
+      [cite_start]"C": "Compiler will generate syntax error [cite: 232]",
+      [cite_start]"D": "The base class constructor will be called in the destructor instead [cite: 233]"
+    }
+  },
+  {
+    "id": 25,
+    [cite_start]"question": "Which one of the following statements is false? [cite: 234]",
+    "options": {
+      "A": "HTML does not allow user defined tags. [cite_start]However, XML allow user defined tags. [cite: 235]",
+      [cite_start]"B": "XPath is used to traverse the XML document. [cite: 236]",
+      [cite_start]"C": "A Window object is the main entry point to all client-side JavaScript features and APIs. [cite: 237]",
+      [cite_start]"D": "The fundamental objective of XML is to store unstructured data. [cite: 238]"
+    }
+  },
+  {
+    "id": 26,
+    [cite_start]"question": "What is the purpose of the break statement in C? [cite: 239]",
+    "options": {
+      [cite_start]"A": "To exit from a loop or switch statement [cite: 240]",
+      [cite_start]"B": "To terminate the program [cite: 241]",
+      [cite_start]"C": "To skip the current iteration of a loop [cite: 242]",
+      [cite_start]"D": "To pause the program execution [cite: 243]"
+    }
+  },
+  {
+    "id": 27,
+    [cite_start]"question": "Which line clipping algorithm is very flexible for convex polygons (not limited to rectangular regions) clipping window? [cite: 244-245]",
+    "options": {
+      [cite_start]"A": "Liang-Barsky [cite: 246]",
+      [cite_start]"B": "NLN [cite: 248]",
+      [cite_start]"C": "Cyrus-Beck [cite: 247]",
+      [cite_start]"D": "Midpoint Subdivision [cite: 249]"
+    }
+  },
+  {
+    "id": 28,
+    [cite_start]"question": "Which polygon rendering algorithm is computationally expensive, but produce very high rendering quality and realistic lighting effects for non-real-time applications? [cite: 250-251]",
+    "options": {
+      [cite_start]"A": "Painter's [cite: 252]",
+      [cite_start]"B": "Z-Buffer [cite: 254]",
+      [cite_start]"C": "Scanline [cite: 253]",
+      [cite_start]"D": "Ray Tracing [cite: 255]"
+    }
+  },
+  {
+    "id": 29,
+    [cite_start]"question": "Which of the following statements is true about function overriding in $C++?$ [cite: 256]",
+    "options": {
+      [cite_start]"A": "The function in the derived class must have the same signature as the function in the base class. [cite: 257]",
+      [cite_start]"B": "Overriding can be achieved within a same class. [cite: 258]",
+      [cite_start]"C": "A derived class can override a function only if it is declared as private in the base class. [cite: 259]",
+      [cite_start]"D": "The base class function can have a different return type than the derived class function. [cite: 260]"
+    }
+  },
+  {
+    "id": 30,
+    "question": "Consider the following statements of exceptions in C++: I. Parent class of all exceptions is std::exception. II. An exception is always raised by a throw expression. III. If no handler at any level catches the exception, terminate() will be called and program will terminated. [cite_start]Which of the following is true? [cite: 261-265]",
+    "options": {
+      [cite_start]"A": "Only Statements I and II are true [cite: 266]",
+      [cite_start]"B": "Only Statements I and III are true [cite: 267]",
+      [cite_start]"C": "Only Statements II and III are true [cite: 268]",
+      [cite_start]"D": "All three Statements are true [cite: 269]"
+    }
+  },
+  {
+    "id": 31,
+    "question": "Match the following and select a most appropriate option. 1. Arity (Degree) 2. Cardinality 3. Tuple 4. Relation. a. Table b. Record c. Number of Rows d. [cite_start]Number of Attributes [cite: 270-282]",
+    "options": {
+      [cite_start]"A": "1-d, 2-c, 3-b, 4-a [cite: 275]",
+      [cite_start]"B": "1-c, 2-d, 3-b, 4-a [cite: 276]",
+      [cite_start]"C": "1-d, 2-c, 3-a, 4-b [cite: 277]",
+      [cite_start]"D": "1-a, 2-c, 3-d, 4-b [cite: 278]"
+    }
+  },
+  {
+    "id": 32,
+    "question": "What is the minimum number of tables needed to convert the ER model into tables for the following entity types and relationships given in the form XRY (Type of R), where X and Y are entity types and R is relationship? [cite_start]Employee Belongs_To Department (many to one), Employee Looks_After Department (one to one), Department Executes Project (one to many), Employee Works_For Project (many to many) [cite: 283-287]",
+    "options": {
+      [cite_start]"A": "3 [cite: 288]",
+      [cite_start]"B": "4 [cite: 290]",
+      [cite_start]"C": "5 [cite: 289]",
+      [cite_start]"D": "6 [cite: 291]"
+    }
+  },
+  {
+    "id": 33,
+    "question": "Consider table Item (item_id, item_cost, item_name) with 5 rows. What will be the output of the following query? [cite_start]SELECT *, item_cost*0.25 as item_name FROM Item WHERE NULL = NULL; [cite: 292-293]",
+    "options": {
+      [cite_start]"A": "It will return all Five rows [cite: 294]",
+      [cite_start]"B": "It will return Zero rows [cite: 295]",
+      [cite_start]"C": "It will return Error Message [cite: 296]",
+      [cite_start]"D": "It will return all rows with NULL values [cite: 297]"
+    }
+  },
+  {
+    "id": 34,
+    "question": "Consider the relation R(ABCDEFGHI) and Functional Dependencies as following: $A\\rightarrow DE$, $F\\rightarrow GH$, $AB\\rightarrow C$, $B\\rightarrow F$, $D\\rightarrow IJ$. [cite_start]What is the key for R? [cite: 298-304]",
+    "options": {
+      [cite_start]"A": "AB [cite: 305]",
+      [cite_start]"B": "BD [cite: 306]",
+      [cite_start]"C": "AFD [cite: 307]",
+      [cite_start]"D": "A [cite: 308]"
+    }
+  },
+  {
+    "id": 35,
+    [cite_start]"question": "Which of the following best describes a \"valid time\" in a temporal database? [cite: 309]",
+    "options": {
+      [cite_start]"A": "The time period during which a fact is true in the real world [cite: 310]",
+      [cite_start]"B": "The time period during which a fact is stored in the database [cite: 311]",
+      [cite_start]"C": "The timestamp when a transaction is committed [cite: 312]",
+      [cite_start]"D": "The time when the data was last updated [cite: 313]"
+    }
+  },
+  {
+    "id": 36,
+    [cite_start]"question": "If an association rule is represented as $A\\rightarrow B$, how is confidence defined? [cite: 314]",
+    "options": {
+      [cite_start]"A": "Support(A∩B) [cite: 315]",
+      [cite_start]"B": "$Support(A\\cap B)/Support(A)$ [cite: 316]",
+      [cite_start]"C": "Support(B)/Support(A) [cite: 317]",
+      [cite_start]"D": "$Support(A)\\times Support(B)$ [cite: 318]"
+    }
+  },
+  {
+    "id": 37,
+    [cite_start]"question": "What are the three main characteristics of big data, often referred to as the \"3Vs\"? [cite: 319-320]",
+    "options": {
+      [cite_start]"A": "Variety, Variables, Validation [cite: 321]",
+      [cite_start]"B": "Volume, Verification, Values [cite: 323]",
+      [cite_start]"C": "Velocity, Volume, Variety [cite: 322]",
+      [cite_start]"D": "Vectors, Velocity, Volume [cite: 323]"
+    }
+  },
+  {
+    "id": 38,
+    [cite_start]"question": "What is the purpose of using a NoSQL database's sharding technique? [cite: 324]",
+    "options": {
+      [cite_start]"A": "Improving data consistency [cite: 325]",
+      [cite_start]"B": "Increasing data redundancy [cite: 327]",
+      [cite_start]"C": "Distributing data across nodes [cite: 326]",
+      [cite_start]"D": "Enhancing query complexity [cite: 327]"
+    }
+  },
+  {
+    "id": 39,
+    "question": "Consider two tables Dept(dno, floorno) - containing details about departments located on which floors, and Floor(floorno) - all possible floors. [cite_start]Which Relational Algebraic operator would be used to find departments which are located on all the floors? [cite: 329-330]",
+    "options": {
+      [cite_start]"A": "DIVISION [cite: 331]",
+      [cite_start]"B": "PROJECTION [cite: 333]",
+      [cite_start]"C": "NATURAL JOIN [cite: 332]",
+      [cite_start]"D": "SELECTION [cite: 333]"
+    }
+  },
+  {
+    "id": 40,
+    [cite_start]"question": "Which of the following statements is NOT true for keys? [cite: 334]",
+    "options": {
+      [cite_start]"A": "Every alternate key is a candidate key. [cite: 335]",
+      [cite_start]"B": "Every candidate key is a super key. [cite: 336]",
+      [cite_start]"C": "Every super key is a primary key. [cite: 337]",
+      [cite_start]"D": "Every primary key is a candidate key. [cite: 338]"
+    }
+  },
+  {
+    "id": 41,
+    [cite_start]"question": "Who is responsible for creation of the symbol table? [cite: 339]",
+    "options": {
+      [cite_start]"A": "Pre-processor [cite: 340]",
+      [cite_start]"B": "Compiler [cite: 342]",
+      [cite_start]"C": "Linker [cite: 341]",
+      [cite_start]"D": "Loader [cite: 343]"
+    }
+  },
+  {
+    "id": 42,
+    [cite_start]"question": "Which of the following system program set up an executable program in main memory ready for execution? [cite: 344-345]",
+    "options": {
+      [cite_start]"A": "Pre-processor [cite: 346]",
+      [cite_start]"B": "Compiler [cite: 348]",
+      [cite_start]"C": "Linker [cite: 347]",
+      [cite_start]"D": "Loader [cite: 349]"
+    }
+  },
+  {
+    "id": 43,
+    [cite_start]"question": "The macro processor is also called as [cite: 350]",
+    "options": {
+      [cite_start]"A": "Pre-processor [cite: 351]",
+      [cite_start]"B": "Post-processor [cite: 358]",
+      [cite_start]"C": "Translator [cite: 352]",
+      [cite_start]"D": "Debugger [cite: 360]"
+    }
+  },
+  {
+    "id": 44,
+    "question": "A process executes the code: fork(); fork(); fork(); [cite_start]The total number of child processes created is [cite: 353-361]",
+    "options": {
+      [cite_start]"A": "3 [cite: 362]",
+      [cite_start]"B": "6 [cite: 364]",
+      [cite_start]"C": "7 [cite: 363]",
+      [cite_start]"D": "8 [cite: 365]"
+    }
+  },
+  {
+    "id": 45,
+    [cite_start]"question": "What does the term 'thrashing' refer to in an operating system? [cite: 366]",
+    "options": {
+      [cite_start]"A": "Excessive swapping of processes [cite: 367]",
+      [cite_start]"B": "Deadlock situation [cite: 367]",
+      [cite_start]"C": "High CPU utilization [cite: 368]",
+      [cite_start]"D": "Inefficient process scheduling [cite: 374]"
+    }
+  },
+  {
+    "id": 46,
+    "question": "Match the following: a. Thread b. Virtual Address Space c. File System d. Signal. 1. [cite_start]Memory 2. Interrupt 3. Disk 4. CPU [cite: 369-378]",
+    "options": {
+      [cite_start]"A": "$a-1$, $b-2$, $c-4$, $d-3$ [cite: 380]",
+      [cite_start]"B": "$a-4$, $b-1$, $c-3$, d-2 [cite: 381]",
+      [cite_start]"C": "$a-3$, $b-4$, $c-1$, $d=2$ [cite: 382]",
+      [cite_start]"D": "$a-2$, $b-3$, $c-4$, $d-1$ [cite: 383]"
+    }
+  },
+  {
+    "id": 47,
+    "question": "Four jobs to be executed on a single processor system arrive at time 0 in the order A, B, C, D. Their CPU burst time requirements are 8, 1, 4, 1 time units respectively. [cite_start]The completion time of C under Round-Robin Scheduling with time slice of one-time unit is [cite: 384-385]",
+    "options": {
+      [cite_start]"A": "4 [cite: 386]",
+      [cite_start]"B": "8 [cite: 388]",
+      [cite_start]"C": "9 [cite: 387]",
+      [cite_start]"D": "10 [cite: 388]"
+    }
+  },
+  {
+    "id": 48,
+    "question": "Consider a system having m resources of the same type. These resources are shared by 3 processes A, B, C, which have peak time demands of 3, 4, 6 respectively. [cite_start]The minimum value of m that ensures that deadlock will never occur is [cite: 389-391]",
+    "options": {
+      [cite_start]"A": "11 [cite: 392]",
+      [cite_start]"B": "12 [cite: 394]",
+      [cite_start]"C": "13 [cite: 393]",
+      [cite_start]"D": "14 [cite: 394]"
+    }
+  },
+  {
+    "id": 49,
+    "question": "Let the page fault service time be 10 ms in a computer with average memory access time being 20 ns. [cite_start]If one-page fault is generated for every 10 to the power of 6 memory accesses, what is the approximate effective access time for the memory? [cite: 395-396]",
+    "options": {
+      [cite_start]"A": "21 ns [cite: 397]",
+      [cite_start]"B": "30 ns [cite: 399]",
+      [cite_start]"C": "23 ns [cite: 398]",
+      [cite_start]"D": "35 ns [cite: 400]"
+    }
+  },
+  {
+    "id": 50,
+    [cite_start]"question": "Which of the following is a deadlock detection technique? [cite: 401]",
+    "options": {
+      [cite_start]"A": "Preemptive scheduling [cite: 402]",
+      [cite_start]"B": "Wait-Die scheme [cite: 403]",
+      [cite_start]"C": "Banker's algorithm [cite: 404]",
+      [cite_start]"D": "Resource Allocation Graph [cite: 405]"
+    }
+  },
+  {
+    "id": 51,
+    [cite_start]"question": "If a software engineering process is under statistical control, then it is [cite: 406]",
+    "options": {
+      [cite_start]"A": "Maintainable [cite: 407]",
+      [cite_start]"B": "Measurable [cite: 409]",
+      [cite_start]"C": "Predictable [cite: 408]",
+      [cite_start]"D": "Verifiable [cite: 410]"
+    }
+  },
+  {
+    "id": 52,
+    [cite_start]"question": "Which of the following is NOT a phase in Adaptive Software Development (ASD) life cycle? [cite: 411-412]",
+    "options": {
+      [cite_start]"A": "Feasibility study [cite: 413]",
+      [cite_start]"B": "Speculate [cite: 414]",
+      [cite_start]"C": "Learn [cite: 415]",
+      [cite_start]"D": "Collaborate [cite: 416]"
+    }
+  },
+  {
+    "id": 53,
+    [cite_start]"question": "An SRS is the document that describes [cite: 417]",
+    "options": {
+      [cite_start]"A": "Design details [cite: 418]",
+      [cite_start]"B": "Proposed software requirements [cite: 420]",
+      [cite_start]"C": "Development methods [cite: 419]",
+      [cite_start]"D": "Testing methods [cite: 420]"
+    }
+  },
+  {
+    "id": 54,
+    [cite_start]"question": "Which of the following diagrams expresses the high-level user's requirements? [cite: 421]",
+    "options": {
+      [cite_start]"A": "Use case [cite: 422]",
+      [cite_start]"B": "Class [cite: 424]",
+      [cite_start]"C": "Activity [cite: 423]",
+      [cite_start]"D": "Deployment [cite: 425]"
+    }
+  },
+  {
+    "id": 55,
+    [cite_start]"question": "The ______ involves executing old test cases to test that no new errors have been introduced when some changes are made to an existing system during maintenance. [cite: 426-428]",
+    "options": {
+      [cite_start]"A": "Alpha testing [cite: 429]",
+      [cite_start]"B": "Beta testing [cite: 431]",
+      [cite_start]"C": "Regression testing [cite: 430]",
+      [cite_start]"D": "Acceptance testing [cite: 432]"
+    }
+  },
+  {
+    "id": 56,
+    [cite_start]"question": "Which of the following is NOT an Agile based approach? [cite: 433]",
+    "options": {
+      [cite_start]"A": "Spiral [cite: 434]",
+      [cite_start]"B": "Scrum [cite: 436]",
+      [cite_start]"C": "XP [cite: 435]",
+      [cite_start]"D": "Kanban [cite: 436]"
+    }
+  },
+  {
+    "id": 57,
+    [cite_start]"question": "Which of the following is NOT a stage in CMM? [cite: 437]",
+    "options": {
+      [cite_start]"A": "Controlled [cite: 438]",
+      [cite_start]"B": "Managed [cite: 440]",
+      [cite_start]"C": "Defined [cite: 439]",
+      [cite_start]"D": "Optimized [cite: 441]"
+    }
+  },
+  {
+    "id": 58,
+    [cite_start]"question": "How many independent paths can be created using McCabe's cyclomatic complexity metric with 10 edges and 9 nodes? [cite: 442-443]",
+    "options": {
+      [cite_start]"A": "2 [cite: 444]",
+      [cite_start]"B": "3 [cite: 446]",
+      [cite_start]"C": "4 [cite: 445]",
+      [cite_start]"D": "5 [cite: 447]"
+    }
+  },
+  {
+    "id": 59,
+    [cite_start]"question": "Which testing uses the path coverage criteria? [cite: 448]",
+    "options": {
+      [cite_start]"A": "White Box Testing [cite: 449]",
+      [cite_start]"B": "Black Box Testing [cite: 451]",
+      [cite_start]"C": "Functional Testing [cite: 450]",
+      [cite_start]"D": "Behaviour Testing [cite: 452]"
+    }
+  },
+  {
+    "id": 60,
+    [cite_start]"question": "Which of the following is disadvantage associated with pair programming? [cite: 453]",
+    "options": {
+      [cite_start]"A": "Pair rotation [cite: 454]",
+      [cite_start]"B": "Early checks on quality of code [cite: 455]",
+      [cite_start]"C": "Peer learning [cite: 456]",
+      [cite_start]"D": "Code ownership [cite: 457]"
+    }
+  },
+  {
+    "id": 61,
+    [cite_start]"question": "Which data structures from the following requires more than average time to perform the insertion operation? [cite: 458-459]",
+    "options": {
+      [cite_start]"A": "Stack [cite: 460]",
+      [cite_start]"B": "Queue [cite: 462]",
+      [cite_start]"C": "Threaded Binary Tree [cite: 461]",
+      [cite_start]"D": "Binary Search Tree [cite: 463]"
+    }
+  },
+  {
+    "id": 62,
+    [cite_start]"question": "Which order of complexity is significantly more efficient for large data sets compared to those with $O(n)$? [cite: 464-465]",
+    "options": {
+      [cite_start]"A": "$O(n^{n})$ [cite: 466]",
+      [cite_start]"B": "$O(log~n)$ [cite: 468]",
+      [cite_start]"C": "$O(n^{2})$ [cite: 467]",
+      [cite_start]"D": "$O(n~log~n)$ [cite: 469]"
+    }
+  },
+  {
+    "id": 63,
+    "question": "A binary tree has 10 nodes having two children and 5 nodes having one child. [cite_start]The number of nodes and branches respectively it has is [cite: 470-471]",
+    "options": {
+      [cite_start]"A": "25 and 25 [cite: 472]",
+      [cite_start]"B": "26 and 25 [cite: 474]",
+      [cite_start]"C": "25 and 26 [cite: 473]",
+      [cite_start]"D": "15 and 7 [cite: 475]"
+    }
+  },
+  {
+    "id": 64,
+    [cite_start]"question": "Which of the following algorithms solves the positive weighted single source shortest path problem? [cite: 476-477]",
+    "options": {
+      [cite_start]"A": "Dijkstra's algorithm [cite: 478]",
+      [cite_start]"B": "Breadth First Search algorithm [cite: 479]",
+      [cite_start]"C": "Bellamn-Ford algorithm [cite: 480]",
+      [cite_start]"D": "Depth First algorithm [cite: 481]"
+    }
+  },
+  {
+    "id": 65,
+    [cite_start]"question": "Which of the following problems usually solved with the help of Approximation algorithms? [cite: 482-483]",
+    "options": {
+      [cite_start]"A": "Searching [cite: 484]",
+      [cite_start]"B": "Matrix multiplication [cite: 485]",
+      [cite_start]"C": "Travelling salesman problem [cite: 486]",
+      [cite_start]"D": "Sorting [cite: 487]"
+    }
+  },
+  {
+    "id": 66,
+    [cite_start]"question": "Which one is the false statement when a given directed graph corresponds to a tree? [cite: 488-489]",
+    "options": {
+      [cite_start]"A": "A directed graph must be acyclic. [cite: 490]",
+      [cite_start]"B": "There must be atmost one edge incoming to each node. [cite: 491]",
+      [cite_start]"C": "Every node except root must have exactly one incoming edge. [cite: 492]",
+      [cite_start]"D": "The number of edges must be equal to the number of nodes. [cite: 493]"
+    }
+  },
+  {
+    "id": 67,
+    [cite_start]"question": "Which one is the true statement for a Greedy algorithm? [cite: 494]",
+    "options": {
+      [cite_start]"A": "A solution is generated incrementally by making the best choice of solution at each step. [cite: 495]",
+      [cite_start]"B": "Greedy algorithm always guarantees an optimal solution for all problems. [cite: 496]",
+      [cite_start]"C": "Greedy algorithm never leads to a global optimum. [cite: 497]",
+      [cite_start]"D": "Greedy algorithm handles overlapping sub-problems efficiently. [cite: 498]"
+    }
+  },
+  {
+    "id": 68,
+    [cite_start]"question": "Which one of the following statements is false for lower bound theory? [cite: 499]",
+    "options": {
+      [cite_start]"A": "Lower bound theory helps to develop efficient algorithms referring to minimum amount of time or space complexity. [cite: 500]",
+      [cite_start]"B": "The comparison-based sorting algorithms have a lower bound of $O(n~log~n)$ for the worst-case time complexity. [cite: 501]",
+      [cite_start]"C": "For functional type problems, lower bound theory can be derived on the input size and operations to implement. [cite: 502]",
+      [cite_start]"D": "Lower bound theory indicates the maximum performance limit for algorithms solving the problem. [cite: 503]"
+    }
+  },
+  {
+    "id": 69,
+    "question": "Consider input sequence as 11, 22, 33, 44, 55, 66 for a stack. [cite_start]Which one from the following stack permutations cannot be obtained? [cite: 504-505]",
+    "options": {
+      [cite_start]"A": "33, 44, 55, 22, 11, 66 [cite: 506]",
+      [cite_start]"B": "11, 22, 33, 55, 66, 44 [cite: 507]",
+      [cite_start]"C": "44, 33, 55, 66, 22, 11 [cite: 508]",
+      [cite_start]"D": "22, 55, 66, 33, 44, 11 [cite: 509]"
+    }
+  },
+  {
+    "id": 70,
+    [cite_start]"question": "Which sorting technique from the following uses Divide and Conquer Strategy? [cite: 510]",
+    "options": {
+      [cite_start]"A": "Heap sort [cite: 511]",
+      [cite_start]"B": "Radix sort [cite: 513]",
+      [cite_start]"C": "Merge sort [cite: 512]",
+      [cite_start]"D": "Selection sort [cite: 514]"
+    }
+  },
+  {
+    "id": 71,
+    [cite_start]"question": "The set of all strings over {0, 1} starting with 00 and ending with 11 is [cite: 515]",
+    "options": {
+      [cite_start]"A": "0011 [cite: 516]",
+      [cite_start]"B": "$00(0+1)^{*}11$ [cite: 518]",
+      [cite_start]"C": "$(00)^{*}(11)^{*}$ [cite: 517]",
+      [cite_start]"D": "$0^{*}1^{*}$ [cite: 519]"
+    }
+  },
+  {
+    "id": 72,
+    [cite_start]"question": "When the NFA is converted to an equivalent DFA accepting the same language, the number of states [cite: 520-521]",
+    "options": {
+      [cite_start]"A": "Necessarily decreases [cite: 522]",
+      [cite_start]"B": "Necessarily increases [cite: 523]",
+      [cite_start]"C": "Always remains the same [cite: 524]",
+      [cite_start]"D": "Sometimes remains the same [cite: 525]"
+    }
+  },
+  {
+    "id": 73,
+    [cite_start]"question": "The intersection of two CFL's [cite: 526]",
+    "options": {
+      [cite_start]"A": "Is always a CFL [cite: 527]",
+      [cite_start]"B": "May be a CFL [cite: 528]",
+      [cite_start]"C": "Is never a CFL [cite: 529]",
+      [cite_start]"D": "None of these [cite: 530]"
+    }
+  },
+  {
+    "id": 74,
+    [cite_start]"question": "The language which is accepted by LBA is called as [cite: 531]",
+    "options": {
+      [cite_start]"A": "Regular [cite: 532]",
+      [cite_start]"B": "Context free [cite: 534]",
+      [cite_start]"C": "Context dependent [cite: 533]",
+      [cite_start]"D": "None of these [cite: 535]"
+    }
+  },
+  {
+    "id": 75,
+    [cite_start]"question": "A given grammar is called ambiguous if [cite: 536]",
+    "options": {
+      [cite_start]"A": "two or more productions have the same non-terminal on the left hand side [cite: 537]",
+      [cite_start]"B": "a derivation tree has more than one associated sentence [cite: 538]",
+      [cite_start]"C": "there is a sentence with more than one derivation tree corresponding to it [cite: 539]",
+      [cite_start]"D": "brackets are not present in the grammar [cite: 539]"
+    }
+  },
+  {
+    "id": 76,
+    [cite_start]"question": "An LALR (1) parser for a grammar G can have shift-reduce (S-R) conflicts if and only if [cite: 540]",
+    "options": {
+      [cite_start]"A": "The SLR(1) parser for G has S-R conflicts [cite: 541]",
+      [cite_start]"B": "The LR(1) parser for G has S-R conflicts [cite: 542]",
+      [cite_start]"C": "The LR(0) parser for G has S-R conflicts [cite: 543]",
+      [cite_start]"D": "The LALR(1) parser for G has reduce-reduce conflicts [cite: 544]"
+    }
+  },
+  {
+    "id": 77,
+    [cite_start]"question": "An LALR(1) grammar is [cite: 545]",
+    "options": {
+      [cite_start]"A": "$LR(0)$ [cite: 546]",
+      [cite_start]"B": "SLR(1) [cite: 548]",
+      [cite_start]"C": "$LR(1)$ [cite: 547]",
+      [cite_start]"D": "None of these [cite: 549]"
+    }
+  },
+  {
+    "id": 78,
+    [cite_start]"question": "In the bottom up evaluation S-attributed definition [cite: 550]",
+    "options": {
+      [cite_start]"A": "Inherited attributes are evaluated [cite: 551]",
+      [cite_start]"B": "Evaluates synthesized attributes [cite: 552]",
+      [cite_start]"C": "Synthesized attributes are not evaluated [cite: 553]",
+      [cite_start]"D": "All of these [cite: 554]"
+    }
+  },
+  {
+    "id": 79,
+    [cite_start]"question": "Which of the following is the purpose of using intermediate code in compilers? [cite: 555]",
+    "options": {
+      [cite_start]"A": "make parsing and semantic analysis simpler [cite: 556]",
+      [cite_start]"B": "improve error recovery and error reporting [cite: 557]",
+      [cite_start]"C": "increase the chances of reusing the machine-independent code optimizer in other compilers [cite: 558]",
+      [cite_start]"D": "improve the register allocation [cite: 559]"
+    }
+  },
+  {
+    "id": 80,
+    [cite_start]"question": "Which of the following comment about peep-hole optimization is true? [cite: 560]",
+    "options": {
+      [cite_start]"A": "It is applied to small part of the code and applied repeatedly. [cite: 561]",
+      [cite_start]"B": "It can be used to optimize intermediate code. [cite: 562]",
+      [cite_start]"C": "It can be applied to a portion of the code that is not contiguous. [cite: 563]",
+      [cite_start]"D": "It is applied in symbol table to optimize the memory requirements. [cite: 564]"
+    }
+  },
+  {
+    "id": 81,
+    [cite_start]"question": "How many pairs of wires make a UTP cable? [cite: 565]",
+    "options": {
+      [cite_start]"A": "2 [cite: 566]",
+      [cite_start]"B": "4 [cite: 568]",
+      [cite_start]"C": "6 [cite: 567]",
+      [cite_start]"D": "8 [cite: 569]"
+    }
+  },
+  {
+    "id": 82,
+    [cite_start]"question": "The access method in Wireless LANs as defined by IEEE.802.11 is based on [cite: 570]",
+    "options": {
+      [cite_start]"A": "CSMA [cite: 571]",
+      [cite_start]"B": "CSMA/CD [cite: 573]",
+      [cite_start]"C": "CSMA/CA [cite: 572]",
+      [cite_start]"D": "Token Ring [cite: 574]"
+    }
+  },
+  {
+    "id": 83,
+    "question": "Consider the following network: (Diagram present). Suppose that it uses flooding as the routing algorithm. [cite_start]If a packet sent by A to D has a maximum hop count of 3, how many hops worth of bandwidth it consumes? [cite: 575-583]",
+    "options": {
+      [cite_start]"A": "21 [cite: 584]",
+      [cite_start]"B": "18 [cite: 586]",
+      [cite_start]"C": "28 [cite: 585]",
+      [cite_start]"D": "24 [cite: 587]"
+    }
+  },
+  {
+    "id": 84,
+    [cite_start]"question": "In RSA algorithm, if $p=5$, $q=11$, $e=3$ and $M=9$, then what will be the value of d? [cite: 588-589]",
+    "options": {
+      [cite_start]"A": "27 [cite: 590]",
+      [cite_start]"B": "72 [cite: 592]",
+      [cite_start]"C": "3 [cite: 591]",
+      [cite_start]"D": "40 [cite: 593]"
+    }
+  },
+  {
+    "id": 85,
+    [cite_start]"question": "A communication processor that connects dissimilar networks by providing the translation from one set of protocols to another is known as [cite: 594-595]",
+    "options": {
+      [cite_start]"A": "Modem [cite: 596]",
+      [cite_start]"B": "Router [cite: 598]",
+      [cite_start]"C": "Bridge [cite: 597]",
+      [cite_start]"D": "Gateway [cite: 599]"
+    }
+  },
+  {
+    "id": 86,
+    [cite_start]"question": "If the bit rate is 1200 bps and there are 4 bits for each signal element, then the baud rate is [cite: 600-601]",
+    "options": {
+      [cite_start]"A": "1200 [cite: 602]",
+      [cite_start]"B": "600 [cite: 604]",
+      [cite_start]"C": "300 [cite: 603]",
+      [cite_start]"D": "400 [cite: 605]"
+    }
+  },
+  {
+    "id": 87,
+    [cite_start]"question": "Which of the following is an example of user agents for e-mail? [cite: 606]",
+    "options": {
+      [cite_start]"A": "Microsoft Outlook [cite: 607]",
+      [cite_start]"B": "Facebook [cite: 609]",
+      [cite_start]"C": "Google [cite: 608]",
+      [cite_start]"D": "Tumblr [cite: 610]"
+    }
+  },
+  {
+    "id": 88,
+    [cite_start]"question": "If link transmits 4000 frames per second and each slot has 8 bits, then the transmission rate of circuit in TDM is [cite: 611-612]",
+    "options": {
+      [cite_start]"A": "32 kbps [cite: 613]",
+      [cite_start]"B": "300 kbps [cite: 615]",
+      [cite_start]"C": "500 kbps [cite: 614]",
+      [cite_start]"D": "32 bps [cite: 616]"
+    }
+  },
+  {
+    "id": 89,
+    [cite_start]"question": "The method of transporting mobile stations from any given base station to another one is known as [cite: 617-618]",
+    "options": {
+      [cite_start]"A": "MIN [cite: 619]",
+      [cite_start]"B": "Handoff or Handover [cite: 621]",
+      [cite_start]"C": "Forward channel [cite: 620]",
+      [cite_start]"D": "Roamer [cite: 621]"
+    }
+  },
+  {
+    "id": 90,
+    [cite_start]"question": "Which of the following is incorrect statement about cloud computing? [cite: 622]",
+    "options": {
+      [cite_start]"A": "Private cloud doesn't employ the same level of virtualization. [cite: 623]",
+      [cite_start]"B": "Data center operates under average loads. [cite: 624]",
+      [cite_start]"C": "Private cloud doesn't support pooling of resources that a cloud computing provider can achieve. [cite: 625]",
+      [cite_start]"D": "Abstraction enables the key benefit of cloud computing: shared, ubiquitous access. [cite: 626]"
+    }
+  },
+  {
+    "id": 91,
+    [cite_start]"question": "Find odd one out with respect to Genetic Algorithm. [cite: 627]",
+    "options": {
+      [cite_start]"A": "Selection [cite: 628]",
+      [cite_start]"B": "Crossover [cite: 630]",
+      [cite_start]"C": "Mutation [cite: 629]",
+      [cite_start]"D": "Clustering [cite: 631]"
+    }
+  },
+  {
+    "id": 92,
+    [cite_start]"question": "What is used to identify high correlation patterns amongst words in a given sentence, assuming that it has learned word correlation patterns from the training data? [cite: 632]",
+    "options": {
+      [cite_start]"A": "Attention Network Mechanism [cite: 633]",
+      [cite_start]"B": "Sentiment Analysis [cite: 634]",
+      [cite_start]"C": "Part-of-speech tagging [cite: 635]",
+      [cite_start]"D": "One-Hot Encoding [cite: 636]"
+    }
+  },
+  {
+    "id": 93,
+    [cite_start]"question": "What kind of signal is used in speech recognition? [cite: 637]",
+    "options": {
+      [cite_start]"A": "Analog signal [cite: 638]",
+      [cite_start]"B": "Electric signal [cite: 640]",
+      [cite_start]"C": "Periodic signal [cite: 639]",
+      [cite_start]"D": "Acoustic signal [cite: 641]"
+    }
+  },
+  {
+    "id": 94,
+    "question": "Neural networks are quite popular in image recognition problems. The task is to classify a given black and white image (Say a Google image) into categories like nature, animal and sports. An image is just a collection of pixels. In a $720\\times1080$ image, for example, there are 720 pixels along the vertical of the image and 1080 along the horizontal. Each pixel acts as an attribute and contains a 'value' which may represent the color, shade etc., at that point on the image. [cite_start]To classify an image into the three categories mentioned above, the number of neurons in the input and output layers are respectively [cite: 642-646]",
+    "options": {
+      [cite_start]"A": "720, 1080 [cite: 647]",
+      [cite_start]"B": "$720\\times1080,$ 1 [cite: 650]",
+      [cite_start]"C": "$720\\times1080,3$ [cite: 649]",
+      [cite_start]"D": "1080, 720 [cite: 650]"
+    }
+  },
+  {
+    "id": 95,
+    [cite_start]"question": "Which technique is used to demonstrate whether a machine is an Al machine? [cite: 651]",
+    "options": {
+      [cite_start]"A": "Set Theory [cite: 652]",
+      [cite_start]"B": "Pseudocodes [cite: 655]",
+      [cite_start]"C": "Turing Test [cite: 653]",
+      [cite_start]"D": "Depth First Search [cite: 656]"
+    }
+  },
+  {
+    "id": 96,
+    [cite_start]"question": "What is tokenization in NLP? [cite: 654]",
+    "options": {
+      [cite_start]"A": "The process of converting text to speech [cite: 657]",
+      [cite_start]"B": "The process of breaking text into smaller units, such as words or phrases [cite: 658]",
+      [cite_start]"C": "The process of generating new text [cite: 659]",
+      [cite_start]"D": "The process of identifying the sentiment of a text [cite: 660]"
+    }
+  },
+  {
+    "id": 97,
+    [cite_start]"question": "Which of the following is NOT a type of neural network? [cite: 661]",
+    "options": {
+      [cite_start]"A": "Convolutional Neural Network [cite: 662]",
+      [cite_start]"B": "Recurrent Neural Network [cite: 663]",
+      [cite_start]"C": "Decision Tree Network [cite: 664]",
+      [cite_start]"D": "Multi-Layer Perceptron [cite: 665]"
+    }
+  },
+  {
+    "id": 98,
+    [cite_start]"question": "Which of the following logic is the form of Fuzzy logic? [cite: 666]",
+    "options": {
+      [cite_start]"A": "Two-valued logic [cite: 667]",
+      [cite_start]"B": "Crisp set logic [cite: 669]",
+      [cite_start]"C": "Binary set logic [cite: 668]",
+      [cite_start]"D": "Many-valued logic [cite: 670]"
+    }
+  },
+  {
+    "id": 99,
+    [cite_start]"question": "Which agent deals with the happy and unhappy states? [cite: 671]",
+    "options": {
+      [cite_start]"A": "Utility based agent [cite: 672]",
+      [cite_start]"B": "Goal based agent [cite: 680]",
+      [cite_start]"C": "Model based agent [cite: 673]",
+      [cite_start]"D": "Learning agent [cite: 681]"
+    }
+  },
+  {
+    "id": 100,
+    [cite_start]"question": "In natural language processing, ______ is the process for reducing inflected words to their root form. [cite: 674-675]",
+    "options": {
+      [cite_start]"A": "Rooting [cite: 676]",
+      [cite_start]"B": "Stemming [cite: 677]",
+      [cite_start]"C": "Text-proofing [cite: 678]",
+      [cite_start]"D": "Both Rooting and Stemming [cite: 679]"
+    }
+  }
+]
